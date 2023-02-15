@@ -2,7 +2,7 @@ class Simple{
 public static void main (String args[]){
 
 
-System.out.println9(" Welcome to the cloud"};
+System.out.println(" Welcome to the cloud"};
 
 }
 }
